@@ -1,0 +1,9 @@
+{
+  "name": "Nokia 3310",
+  "description": "Classic mobile phone",
+  "price": 4999,
+  "quantity": 20,
+  "category": "Mobiles",
+  "imageUrl": "https://example.com/nokia.jpg",
+  "active": true
+}
