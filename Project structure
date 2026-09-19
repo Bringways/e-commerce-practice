@@ -1,0 +1,27 @@
+bringways-ecommerce/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── bringways/
+│   │   │           └── ecommerce/
+│   │   │               ├── EcommerceApplication.java
+│   │   │               │
+│   │   │               ├── controller/
+│   │   │               ├── service/
+│   │   │               ├── repository/
+│   │   │               ├── entity/
+│   │   │               ├── dto/
+│   │   │               ├── exception/
+│   │   │               └── config/
+│   │   │
+│   │   └── resources/
+│   │       └── application.properties
+│   │
+│   └── test/
+│
+├── Dockerfile
+├── .dockerignore
+├── pom.xml
+└── README.md
